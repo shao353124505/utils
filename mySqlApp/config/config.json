@@ -1,0 +1,23 @@
+{
+  "log": {
+    "remove_personal_info": true,
+    "remove_replacement": "[FILTERED]",
+    "debug_file": "./log/debug.log",
+    "ops_file": "./log/ops.log"
+  },
+  "dbConfig": {
+    "user": "tmcas",
+    "password": "Mac8.611",
+    "server": "nj-foundatn-cas",
+    "database": "tmcas-dev",
+    "options": {
+      "encrypt": true
+    },
+    "pool": {
+      "idleTimeoutMillis": 30000
+    }
+  },
+  "delegatorIds": ["8921eb02-e70f-48ed-88b8-fbad74ddc759","274f3105-1160-43d9-b6cf-d7ea0235aa79","e763614f-cc37-4ae6-b01e-4dd663e74466","ccd59f61-9f41-427e-88f4-88338d6ad501","e900886d-ec3a-4187-95a0-4339de5057ea","f03dcf82-356c-47d9-bc41-3bb9c01cd887","755c0617-15fe-4c7e-b5e9-ab262892a4cb","d8146003-5b49-43dd-a56a-d8e349a34537","54a56c15-1e3c-4969-8786-3885f0a92363","bd444d8f-9b15-4003-9780-f2fafca143f9","aa8581a4-13b1-46c3-8b11-5aeff45d97b3","bae43ba6-27f7-459f-9b05-b2b7145af47d","8ec3e961-4211-47e0-a328-2a74eaeef5c6","6e093772-cf1e-49e8-b8ba-ac1cb560c5ef","3b34493b-56e7-415a-8c9b-bbf6a6d5ab51","47c3a13c-3341-4ff4-8c3a-f821c0e3fcc1","9b0657dd-8997-4572-9e16-76312c6d9264","a1a1f9da-1103-4639-88f3-33b7d19fbf8e","6b2779b7-1d53-4ea4-8eae-e89731295f6a","a854e102-fcbb-45ca-b97a-9409e236fe2e","eaa754f2-51ad-493c-8c87-3ae15008d9ea","a43bdca8-dc71-4f83-a1da-a243b0874b0d","1fe8b6a3-8edf-4344-adc4-b342465048e3","2d929545-422a-4029-9d75-69ea3ace18c4","0539149d-29e6-4f4a-8f43-a197b06aaf87","78965ef1-6a2e-4fe1-860f-7d07e9ecc905","8be28f94-ab64-412c-9e35-1b79f23c6bf0","8ffa4919-86ed-4e0a-9c20-3f616f17ec04","e2e19e5a-8f3d-4b19-b9b8-0a3383d81150","88d6bf1b-87bb-4530-a119-9431a7edac28","6e6d43ec-b8fc-4f9d-80f1-43448dc3c6df","e49500d8-7a42-40ef-8dda-90f6ed2a6b6c","18c5cca1-b3c8-4a7d-bb0c-32484b1ad6ed","69efea06-8721-480b-b013-802fc4f1b066","774c84bb-25a5-40c6-9141-6f0e1da1283a","5938071b-42fe-45e2-8915-ba7ec2279b62","8f4f10b8-5b04-40e8-996c-2fea5e834d26","e7605b70-7c7a-4de6-b47e-2b5ccea62e47","1fe04a80-c4d4-4712-b8f6-a73690bc4c58","4f5f8088-4d0d-458a-a6aa-8e861825537f","95d0d419-b8eb-442e-abae-6f17c3e25018","c89a5de6-a1e4-445e-8a13-e783a1b17168","f9479820-2ddb-4ece-919d-fc286a978cef","fab88d7b-bb09-4b91-9543-7c4dd1753568","a0421e6d-1636-4643-871d-a3f1826943ee","96058f9f-79e3-4069-bd3a-fc8279d31818","ef756cfb-224d-46f5-9a7e-603179169099","a71d6eff-f7cb-4425-905b-0499dbc6faa8","c48a67d6-4ce2-4360-8a85-46c00685a540","f7ae17d5-c0af-4ae6-a48c-1f50bfac1de0","63f2efaf-42cb-429f-854c-412c0186dd44","9d6e7b47-6c24-44b0-b865-38c1ce7c4584","6bc16432-5135-4e28-8c47-2f63c4c92b12","17b95e9c-f99c-4b00-9ec9-bcf0c7ab7163","73575f3b-c6e2-45a4-9d5b-cefd007da660","ac60e94d-9c1c-4286-bee4-f9e987e4aafe","438cce14-fe6d-4ab6-a6b0-c83e383a6a4d","aea9e0ef-8582-4cb7-9ae9-5fefed60564c","2c9f820b-9669-47a7-81fe-af25ef056bd6","ff2f2985-8ce1-4dd5-8475-3df36096a94d","a5528751-7aad-45c0-b3aa-40c8edfe03bb","e1d91e9e-e4dd-4a0e-90e8-7bcc782fcde2","99b09d0e-8eda-47d6-85a8-9e2f0eca6e73","3161e10b-b234-407a-ac7c-0bbeda7845dd","9a0fd0ec-1b9d-4c19-b643-65df01bff7e8","38020bb0-7675-4bd7-989b-0ddd2216f31e","8bd97202-7423-48d2-938c-34323f952b87","0a348a7f-31ad-486f-94e5-bad0fd627521","71fd1adb-4b80-4049-bfec-d8e5e22c73d2","ec00f693-4624-4e19-9d06-d5a1072cdb86"],
+  "parent_task_id": "762fac28-55c1-4411-a8b1-5f56c6940ee7",
+  "table_name": "tm_ondemandex_task"
+}
