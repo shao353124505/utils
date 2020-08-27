@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "mssql": "^6.2.1",
+    "path": "^0.12.7",
     "redis": "^3.0.2",
+    "sequelize": "^5.18.4",
     "uuid": "^8.3.0",
     "winston": "^3.3.3"
   }
